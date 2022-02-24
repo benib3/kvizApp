@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kviz</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="pitanje">Glavni grad CG je Cetinje.</string>
+    <string name="true_button">Tacno.</string>
+    <string name="false_button">Netacno.</string>
+
+    <string name="odg_tacan">Odgovor je tacan,cestitamo dobili ste nista.</string>
+    <string name="odg_netacan">Odgovor je netacan,cestitamo dobili ste nista.</string>
+
+    <string name="next_button">Sledece</string>
+    <string name="question_oceans">Tihi okean je veći od Atlankog okeana.</string>
+    <string name="question_mideast">Suecki kanal spaja Crveno more i Indijski okean.</string>
+    <string name="question_africa">Izvor rijeke Nil je u Egiptu.</string>
+    <string name="question_americas">Amazon je najduža rijeka u Americi</string>
+    <string name="question_asia">Bajkatsko jezero je najdublje slatkovodno jezero na svijetu.</string>
+</resources>
